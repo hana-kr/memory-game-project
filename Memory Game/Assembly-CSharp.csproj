@@ -64,11 +64,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Cards.cs" />
     <Compile Include="Assets\Scripts\EventSystemCustom.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\GamePlay.cs" />
     <Compile Include="Assets\Scripts\Settings.cs" />
-    <Compile Include="Assets\Scripts\Swaper.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
